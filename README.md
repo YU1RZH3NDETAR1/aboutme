@@ -12,8 +12,7 @@
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=true&hide_remaster=true&bar_color=000000&bar_color_cover=true">
-  </a>   
-</p>
+  </a>
  <p align="center">
 ✧ㅤ<a href="https://yurizen.straw.page/">straw</a>
 ㅤ<a href="https://en.pronouns.page/@YUIRZH3NDERAT1">pronus</a>
