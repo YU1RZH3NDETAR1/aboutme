@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=cdb8cf&center=true&vCenter=true&width=600&lines=Who?+Ill+kill+they+first+if+they+do+that" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg">
-<p align="center"><a href="https://hits.sh/github.com/YUR1Z3N/"><img alt="Hits" src="https://hits.sh/github.com/YUR1Z3N.svg?label=Taxduo.&color=8fb7cd&labelColor=6d7980"/></a>
+<p align="center"><a href="https://hits.sh/github.com/YUR1Z3N/"><img alt="Hits" src="https://hits.sh/github.com/YUR1Z3N.svg?label=Taxduo.&extraCount=18066&color=88b0c7&labelColor=636b7c"/></a>
 
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&redirect=true">
