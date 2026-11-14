@@ -18,7 +18,7 @@
 ㅤ<a href="https://en.pronouns.page/@YUIRZH3NDERAT1">pronus</a>
 ㅤ<a href="https://yurizen.atabook.org/">ata</a>
 ㅤ<a href="https://rentry.co/donotintifyou">dni</a>
-ㅤ<a href="https://rentry.co/beforeyouintme">abtme</a>
+ㅤ<a href="https://rentry.co/beforeyouinteractme">abtme</a>
 <p align="center">𝙸 𝚍𝚘𝚗𝚝 𝚝𝚊𝚕𝚔 𝚖𝚞𝚌𝚑 𝚠𝚑𝚎𝚗 𝚒𝚖 𝚓𝚞𝚜𝚝 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞</p>
 <p align="center">𝙴𝙽𝙶/𝚅𝙸𝙴𝚃</p>
 <p align="center">𝙸𝚖 𝚊𝚛𝚘𝚊𝚌𝚎</p>
